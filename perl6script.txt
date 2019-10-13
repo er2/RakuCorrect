@@ -1,0 +1,56 @@
+.1 + .2
+.1 + .2 == .3
+.3.WHAT
+.3.nude
+TODO FatRat
+
+range
+
+infinite list
+
+my @i = 1,2,4...2**16
+
+@i[*-1]
+
+@i[*/2]
+
+my @i = 1,2...100
+
+my @fib = 1,1,*+*...*
+
+unicode
+
+roll dice
+
+pi
+
+foreign numbers
+
+squared
+
+area-of-a-circle
+
+OOP
+
+MAIN
+
+grammars and regexes
+
+gather and take
+
+supplies
+
+phasers
+
+now - INIT now
+
+gradual typing
+
+subsets
+
+multiple dispatch
+
+docker run -it -p 8888:8888 sumankhanal/perl-6-notebook
+
+sudo snap install jupyter
+zef install Jupyter::Kernel
